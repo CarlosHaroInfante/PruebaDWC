@@ -1,0 +1,30 @@
+/* src/app/app.component.css */
+
+.nav {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .nav-item {
+    display: inline;
+    margin-right: 15px;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+
+  /* src/app/app.component.css */
+
+.button-group {
+    margin: 20px 0;
+  }
+  
+  .btn {
+    margin-right: 10px; /* Espacio entre botones */
+  }
